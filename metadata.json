@@ -1,0 +1,6 @@
+{
+  "name": "Buy A to Z",
+  "description": "A professional e-commerce platform inspired by Daraz, featuring a modern shopping experience, a mobile-responsive design, and integrated order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
